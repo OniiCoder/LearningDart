@@ -12,5 +12,8 @@ Core Dart functionalities I Explored and practiced while I learned how to code w
 - Data Collections (Fixed Length List, Growable List, Sets, and HashMaps)
 
 
+## Practice with the online Dart tool (Dart Pad): https://dartpad.dev/
+
+
 ###### Feel free to hit me up on twitter: www.twitter.com/FxckBoyApps
 
